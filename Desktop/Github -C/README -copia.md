@@ -74,6 +74,4 @@ yarn test
 
 ## Licencia
 
-Indica la licencia del proyecto, por ejemplo:
-
-Este proyecto está bajo la [MIT License](LICENSE).
+Licencia MIT. La mejor lejos.
