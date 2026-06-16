@@ -4,7 +4,7 @@ Un README genérico para un proyecto Node.js. Este archivo describe las seccione
 
 ## Descripción
 
-Breve descripción del proyecto. Explica qué hace la aplicación, cuál es su propósito y qué problema resuelve.
+Breve descripción del proyecto. Este es un proyecto hecho en javascript.
 
 ## Requisitos
 
