@@ -9,6 +9,11 @@ Breve descripción del proyecto. Este es un proyecto hecho en javascript.
 
 ## Requisitos
 
+- Requisito A
+- Requisito B 
+- Requisito C
+
+
 - Node.js (recomendado: la versión LTS actual)
 - npm o yarn
 
