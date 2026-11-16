@@ -1,0 +1,16 @@
+{
+  "numero_caso": "#004",
+  "nombre_caso": "modificar la cantidad de un producto existente",
+  "fecha_revision": "2026-11-16",
+  "autor": "Fernando jose marimon sanchez ",
+  "descripcion": "requerimiento funcional que aprueba que al modificar o editar la cantidad de un producto que ya\nesta registrado, permite que la tabla actualice la información, se calcule el subtotal y se reajuste\ndebidamente los datos ingresados. ",
+  "ambiente": "web ",
+  "herramienta": "Manual",
+  "salida_esperada": "Al modificar la cantidad de 5 a 10, se modifica\nautomáticamente y el costo total del\ninventario.  ",
+  "salida_obtenida": "La cantidad se modifico, expone el total del\ninventario actualizado.",
+  "resultado": "Aprobado",
+  "codigo_seguimiento": "INV - 2045",
+  "severidad": "Bajo",
+  "evidencias": "Se realiza la captura de pantalla de la acción que se realizo, y que se ejecutaron las labores\nestablecidas ",
+  "repositorio": "https://github.com/marimonfernando09-ops/demo-github"
+}
