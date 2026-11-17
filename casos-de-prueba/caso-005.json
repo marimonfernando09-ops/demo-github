@@ -1,16 +1,16 @@
 {
   "numero_caso": "#005",
-  "nombre_caso": "Registrar productos con campos vacíos ",
+  "nombre_caso": "Registrar un producto con campos vacíos ",
   "fecha_revision": "2026-11-17",
   "autor": "Fernando jose marimon sanchez ",
-  "descripcion": "Caso funcional negativo que valida que el sistema no permita registrar un producto sin nombre precio ni cantidad. ",
+  "descripcion": "Caso funcional que valida que el sistema no permita registrar un producto sin nombre, precio y cantidad. ",
   "ambiente": "Web",
   "herramienta": "Manual",
-  "salida_esperada": "El sistema debe mostrar un mensaje de campos obligatorios y no agrega el producto a la tabla. ",
-  "salida_obtenida": "El sistema agrego una fila vacía a la tabla y sumo $0 al total, sin exponer ningún mensaje",
+  "salida_esperada": "El sistema debe exponer un mensaje de los campos obligatorios y no agregar productos a la tabla sin llenar los campos. ",
+  "salida_obtenida": "El sistema añadió una fila vacía dentro de la tabla y sumo la cantidad 0$ en total, sin exponer ningún aviso o mensaje ",
   "resultado": "Rechazado",
   "codigo_seguimiento": "INV - 2046",
   "severidad": "Alto",
-  "evidencias": "Captura de la tabla con la fila vacia despues de pulsar agregar con el formulario sin llenar. ",
+  "evidencias": "Captura de la tabla con la fila vacia despues de dar clic al botón agregar con el formulario sin llenar ",
   "repositorio": "https://github.com/marimonfernando09-ops/demo-github"
 }
