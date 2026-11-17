@@ -1,0 +1,16 @@
+{
+  "numero_caso": "#007",
+  "nombre_caso": "Eliminar producto del inventario ",
+  "fecha_revision": "2026-11-17",
+  "autor": "Fernando jose marimon sanchez ",
+  "descripcion": "Permite validar que al eliminar un producto dentro de la listas, este desaparezca de la tabla y automáticamente realice el descuento ",
+  "ambiente": "Web ",
+  "herramienta": "Manual",
+  "salida_esperada": "El sistema pide confirmación para ejecutar la acción de eliminar el producto y realiza la resta del subtotal del inventario ",
+  "salida_obtenida": "El producto efectivamente se elimino de la tabla y el total se actualizo correctamente ",
+  "resultado": "Aprobado",
+  "codigo_seguimiento": "INV - 2048",
+  "severidad": "Bajo",
+  "evidencias": "Captura de la tabla y del total de antes y después que se ejecutara la acción",
+  "repositorio": "https://github.com/marimonfernando09-ops/demo-github"
+}
